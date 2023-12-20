@@ -1,0 +1,19 @@
+{
+  "name": "elixer-protocol",
+  "version": "1.0.0",
+  "description": "DeFi Automation Magic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ira Sigman",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.3"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.18.0",
+    "@aave/periphery-v3": "^2.5.0"
+  }
+}
